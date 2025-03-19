@@ -277,7 +277,7 @@ main {
                 padding: 1rem;
                 color: var(--white);
                 text-align: center;
-                font-size: 1rem;
+                font-size: calc(1rem + 2vw);
                 opacity: 0;
                 transition: opacity 0.3s ease;
             }
